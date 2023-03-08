@@ -1,5 +1,5 @@
 # simple-kernel
-Um kernel simples feito em c++.
+Um kernel simples feito em c++, que funciona em qualquer sistema operacional com g++.
 
 Esse programa utiliza a biblioteca `filesystem` que é uma biblioteca experimental do c++, para compilar esse programa corretamente utlize esses argumentos no g++:
 
